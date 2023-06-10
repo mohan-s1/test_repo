@@ -10,4 +10,4 @@ You can copy and paste the respective commands in your terminal then hit Enter t
 
 `xcode-select -p`
 
-`which brew`
+`which -s brew`
